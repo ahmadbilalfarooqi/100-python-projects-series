@@ -1,14 +1,7 @@
 ## <a name="introduction">🤖 Introduction</a>
 
-In Bagels, a deductive logic game, you
-must guess a secret three-digit number
-based on clues. The game offers one of
-the following hints in response to your guess:
-“Pico” when your guess has a correct digit in the
-wrong place, “Fermi” when your guess has a correct
-digit in the correct place, and “Bagels” if your guess
-has no correct digits. You have 10 tries to guess the
-secret number.
+Building a diverse range of over 50 small Python projects has been a transformative experience. It wasn't just about hammering out code; it was a deep dive into the practical application of Python's capabilities. Each project presented unique challenges, demanding creative solutions and reinforcing my foundational knowledge. Now, I'm not only more comfortable with the language, but I'm also brimming with confidence to approach new projects, armed with a versatile skillset honed through real-world practice.
+
 
 ## <a name="tech-stack">🔅 Tech Stack</a>
 
@@ -30,8 +23,8 @@ Make sure you have the following installed on your machine:
 **Clone this Project**
 
 ```bash
-git clone https://github.com/ahmadbilalfarooqi/gemini-clone-nextjs.git
-cd gemini-clone-nextjs
+git clone https://github.com/ahmadbilalfarooqi/50-project-python.git
+cd <Your_Project_Name>
 ```
 
 **Installation**
@@ -39,23 +32,14 @@ cd gemini-clone-nextjs
 Install dependencies:
 
 ```bash
-npm install
+poetry install
 ```
 
-**Running the Project using NPM**
+**Running the Project using poetry**
 
 ```bash
-npm run dev
+python <file_name>
 ```
 
 Install dependencies using yarn:
 
-```bash
-yarn
-```
-
-**Running the Project using yarn**
-
-```bash
-yarn run dev
-```
