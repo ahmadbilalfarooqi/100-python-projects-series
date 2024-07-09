@@ -1,4 +1,7 @@
-## <a name="introduction">🤖 Bagels Game</a>
+
+<div align="center">
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7216469274356293632/" target="_blank"> 🔅 Bagels Game 🔅 </a>
+</div>
 
 In Bagels, a deductive logic game, you
 must guess a secret three-digit number
@@ -9,4 +12,3 @@ wrong place, “Fermi” when your guess has a correct
 digit in the correct place, and “Bagels” if your guess
 has no correct digits. You have 10 tries to guess the
 secret number.
-
