@@ -1,7 +1,8 @@
-
 <div align="center">
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7216469274356293632/" target="_blank"> 🔅 Bagels Game 🔅 </a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7216469274356293632/" target="_blank"> <h1>🔅 Bagels Game 🔅</h1></a>
 </div>
+<br/>
+
 
 In Bagels, a deductive logic game, you
 must guess a secret three-digit number
