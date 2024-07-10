@@ -14,3 +14,8 @@ in a group as small as 23 people, there’s a 50 percent
 chance of a matching birthday. This program performs several probability experiments to determine
 the percentages for groups of different sizes. We call these types of experiments, in which we conduct multiple random trials to understand the
 likely outcomes, Monte Carlo experiments.
+
+<br/>
+
+# 📝 After Running the Birthday Paradox display look like ⬇️
+![Alt text](./images/birthday.png)

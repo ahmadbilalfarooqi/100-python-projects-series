@@ -47,5 +47,4 @@ poetry install
 python <file_name>
 ```
 
-Install dependencies using yarn:
 

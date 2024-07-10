@@ -13,3 +13,8 @@ wrong place, “Fermi” when your guess has a correct
 digit in the correct place, and “Bagels” if your guess
 has no correct digits. You have 10 tries to guess the
 secret number.
+
+<br/>
+
+# 📝 After Running the Bagels Game display look like ⬇️
+![Alt text](./images/bagels.png)
