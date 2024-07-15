@@ -15,4 +15,8 @@ replaced it.
 <br/>
 
 ## 📝 After Running the code display look like ⬇️
-![Alt text](./images/bitmap.png)
+![Alt text](./images/a1.png)
+![Alt text](./images/a2.png)
+![Alt text](./images/a3.png)
+![Alt text](./images/a4.png)
+![Alt text](./images/a5.png)
