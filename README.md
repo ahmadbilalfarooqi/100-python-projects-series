@@ -1,12 +1,12 @@
 <div align="center">
-<h1><b>Python Small Projects </b></h1>
+<h2><b>100 Python Projects Series</b></h2>
 </div>
 
 <br/>
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Building a diverse range of over 50 small Python projects has been a transformative experience. It wasn't just about hammering out code; it was a deep dive into the practical application of Python's capabilities. Each project presented unique challenges, demanding creative solutions and reinforcing my foundational knowledge. Now, I'm not only more comfortable with the language, but I'm also brimming with confidence to approach new projects, armed with a versatile skillset honed through real-world practice.
+Building a diverse range of over 100 small Python projects has been a transformative experience. It wasn't just about hammering out code; it was a deep dive into the practical application of Python's capabilities. Each project presented unique challenges, demanding creative solutions and reinforcing my foundational knowledge. Now, I'm not only more comfortable with the language, but I'm also brimming with confidence to approach new projects, armed with a versatile skillset honed through real-world practice.
 
 
 ## <a name="tech-stack">🔅 Tech Stack</a>
@@ -48,3 +48,8 @@ python <file_name>
 ```
 
 
+*If you want to discuss any query kindly contact with me on What'sapp 🤙📱📲📞*
+
+```bash
++923219429248
+```
